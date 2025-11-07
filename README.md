@@ -1,6 +1,6 @@
 _thinking..._
 
-# H2 ANNOYING PASSWORD CHECKER!
+# ANNOYING PASSWORD CHECKER!
 
 - Make the user write a complex password that he will never remember lul
 - that must include lowercase, uppercase, symbols, numbers and must be this looooooooooooooong
