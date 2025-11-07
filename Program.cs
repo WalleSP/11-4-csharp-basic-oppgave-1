@@ -6,6 +6,7 @@ class Program
 {
     static void Main(string[] args)
     {   
+        //Rendering out whitespace and intro text
         Console.WriteLine();
         Console.WriteLine();
         AnsiConsole.Write(new FigletText("Create Account").LeftJustified().Color(Color.Green));
